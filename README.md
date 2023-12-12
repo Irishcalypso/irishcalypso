@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on FIT (Fastrack into Information Technology) 
+- 🔭 I’m currently working on [FIT (Fastrack into Information Technology)](https://fit.ie/) 
 - 🌱 I’m currently delivering the Web Development and Programming with HTML, JS & CSS Modules
 
 - ⚡ Fun fact: ...
